@@ -6,14 +6,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://twitter.com/themastermindpk" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - themastermindpk" height="30" width="40" />
-  </a>
   <a href="https://linkedin.com/in/yasirshahzad18" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - yasirshahzad18" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/abc" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow - abc" height="30" width="40" />
   </a>
   <a href="https://fb.com/aaa" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook - aaa" height="30" width="40" />
