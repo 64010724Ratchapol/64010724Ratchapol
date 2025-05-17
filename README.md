@@ -3,7 +3,11 @@
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
 
 
-<pre><code>## Hello World! I'm Tao 👋🏼 🧑🏼‍🎓 Graduated in Computer Engineering from King Mongkut's Institute of Technology Ladkrabang (KMITL) 💻 Fullstack Web Developer — experienced in both frontend & backend 🌐 Started working in the web development field since 2024 🛠 Passionate about building clean, scalable, and user-friendly web applications </code></pre>
+
+🧑🏼‍🎓 Graduated in Computer Engineering from King Mongkut's Institute of Technology Ladkrabang (KMITL)  
+💻 Fullstack Web Developer — experienced in both frontend & backend  
+🌐 Started working in the web development field since 2024  
+🛠 Passionate about building clean, scalable, and user-friendly web applications
 
 
 ## 💻 **Tecnologías Clave**
