@@ -29,13 +29,6 @@
 [![Yasir's current streak](https://streak-stats.demolab.com/?user=64010724Ratchapol&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=64010724Ratchapol&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-## ⚡Activity Graph
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=64010724Ratchapol&theme=react-dark"/>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=64010724Ratchapol&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
