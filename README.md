@@ -7,17 +7,17 @@
 🛠 Passionate about building clean, scalable, and user-friendly web applications
 
 
-## 💻 **Tecnologías Clave**
+## 💻 **Key Technologies**
 
-### 🧑‍💻 Lenguajes de Programación
+### 🧑‍💻 Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
 
-### 🎨 Desarrollo Frontend
+### 🎨 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### 🔨 Desarrollo Backend
+### 🔨 Backend Development
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
@@ -25,16 +25,16 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/yasirshahzad18" target="_blank">
+  <a href="https://www.linkedin.com/in/ratchapol-rujiwach" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - yasirshahzad18" height="30" width="40" />
   </a>
-  <a href="https://fb.com/aaa" target="_blank">
+  <a href="https://www.facebook.com/ratchapol.rujiwach.9" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook - aaa" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/mastermind.pk" target="_blank">
+  <a href="https://www.instagram.com/tttaaooo" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - mastermind.pk" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/cc" target="_blank">
+  <a href="https://www.youtube.com/@ratchapolrujiwach4801" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube - cc" height="30" width="40" />
   </a>
 </p>
@@ -42,16 +42,16 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<img align="right" alt="Coding" width="320" src="https://github.com/yasir-shahzad/yasir-shahzad/blob/resources/media/Cat-animation.gif">
+<img align="right" alt="Coding" width="320" src="https://github.com/rratchapol/rratchapol/blob/resources/media/Cat-animation.gif">
 
-[![Yasir's github stats](https://bad-apple-github-readme.vercel.app/api?username=64010724Ratchapol&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)  
-[![Yasir's current streak](https://streak-stats.demolab.com/?user=64010724Ratchapol&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=64010724Ratchapol&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Yasir's github stats](https://bad-apple-github-readme.vercel.app/api?username=rratchapol&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)  
+[![Yasir's current streak](https://streak-stats.demolab.com/?user=rratchapol&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=rratchapol&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=64010724Ratchapol&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=rratchapol&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 
 <p align="center">
