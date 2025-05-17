@@ -45,9 +45,6 @@
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=64010724Ratchapol&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=64010724Ratchapol&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
